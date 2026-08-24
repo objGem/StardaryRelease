@@ -1,13 +1,13 @@
 # 📱 StardaryRelease
 
 ## 📥 下载
-请点击下方的 **Assets** 附件，下载 `Stardary.ipa` 文件。
+请点击右侧的 **Release** ，下载 `Stardary.ipa` 文件。
 
 ## ⚠️ 重要提示
 ⚠️ 需自签，不提供企业证书。
 
 ## 📧 反馈与联系
-- **反馈邮箱**：`yourname@example.com`
+- **反馈邮箱**：`sofacontact@foxmail.com`
 - **QQ 1群**：`960756775`
 - **QQ 2群**：`903939038`
 - 点击链接加入 QQ 1群：[点我加入](https://qm.qq.com/cgi-bin/qm/qr?k=92WF5Xt1a4lPin1r9UcMMyDgPsVR-qc1&jump_from=webapi&authKey=iZJC1IySc4lTdWbUCCVY8R6XE/onanK4NGDZRWwnSnTcQ/1UM/7fHHuRDCDBqSm0)
